@@ -8,3 +8,4 @@
 2026-02-20 20:05:08 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Eclipse_workspace\opencartv3041\master.xml] otherwise TestNG may fail or not work as expected.
 2026-02-20 20:05:16 INFO  TC002_LoginTest:14 - *********** Starting TC002_LoginTest ***********
 2026-02-20 20:05:17 INFO  TC002_LoginTest:35 - *********** Ending TC002_LoginTest ***********
+2026-02-20 23:22:48 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [E:\Eclipse_workspace\opencartv3041\master.xml] otherwise TestNG may fail or not work as expected.
